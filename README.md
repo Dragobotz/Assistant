@@ -19,7 +19,7 @@
 ## Deploy
 > Fork and edit [info.py](https://github.com/Dragobotz/Assistant/blob/main/info.py) & [main.py](https://github.com/Dragobotz/Assistant/blob/main/bot/main.py) with your infomations before deploy.
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?) 
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dragobotz/Assistant)
 
 ### Config vars 📖
 - `APP_ID` - Your APP ID. Get it from [my.telegram.org](my.telegram.org)
