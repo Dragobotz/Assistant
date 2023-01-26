@@ -1,5 +1,9 @@
 # Telegram-Assistant-bot
 <div align="right">
+
+
+<img src="https://te.legra.ph/file/7c7492783613dc2bbb4bf.jpg" align="right" width="300" height="300"/>
+</div>
  
 <p><b>Telegram feedback bot with some additional features</b></p> 
 
